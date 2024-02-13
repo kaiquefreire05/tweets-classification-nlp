@@ -5,7 +5,7 @@ Date: February 13, 2024
 
 ## Description:
 
-This repository contains a Jupyter notebook that serves as a comprehensive guide to performing sentiment analysis on Twitter data using Python. The notebook covers various steps, from importing libraries to evaluating the trained model's performance.
+This repository contains a Jupyter notebook that serves as a comprehensive guide to performing sentiment classifier on Twitter data using Python. The notebook covers various steps, from importing libraries to evaluating the trained model's performance.
 
 ## Topics covered:
 
@@ -42,7 +42,7 @@ This repository contains a Jupyter notebook that serves as a comprehensive guide
 
 ## Comments:
 
-* This notebook is designed to provide both beginners and experienced practitioners with a practical approach to performing sentiment analysis on Twitter data.
+* This notebook is designed to provide both beginners and experienced practitioners with a practical approach to performing sentiment classifier on Twitter data.
 * Explore the additional resources mentioned above to deepen your understanding and explore more advanced NLP techniques.
 * Feel free to adapt the structure and content of the notebook to suit the requirements of your own NLP projects and applications.
 
